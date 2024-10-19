@@ -1,0 +1,58 @@
+{
+    "editor.fontFamily": "Dank Mono",
+    // "editor.fontFamily": "Fragment Mono",
+    // "editor.fontFamily": "Roboto",
+    // "editor.fontWeight": "bold",
+    "editor.fontLigatures": true,
+    "editor.formatOnSave": true,
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "editor.minimap.enabled": false,
+    "editor.fontSize": 20,
+    // "editor.lineNumbers": "off",
+    // "explorer.confirmDragAndDrop": false,
+    "editor.wordWrap": "on",
+    // "explorer.confirmDelete": false,
+    "reactSnippets.settings.importReactOnTop": false,
+    "editor.cursorBlinking": "expand",
+    "editor.find.cursorMoveOnType": false,
+    "editor.cursorSmoothCaretAnimation": "on",
+    "emmet.includeLanguages": {
+      "javascript": "javascriptreact"
+    },
+    "terminal.integrated.enableMultiLinePasteWarning": false,
+    "git.openRepositoryInParentFolders": "never",
+    "workbench.iconTheme": "material-icon-theme",
+    "javascript.updateImportsOnFileMove.enabled": "always",
+    "editor.accessibilitySupport": "off",
+    "terminal.integrated.env.windows": {},
+    "git.autofetch": true,
+    // "workbench.statusBar.visible": false,
+    "workbench.colorTheme": "Hack The Box",
+    "window.menuBarVisibility": "compact",
+    "workbench.layoutControl.enabled": false,
+    "window.commandCenter": false,
+    "window.zoomLevel": 1,
+    "inference.model": "codellama:7b-code-q6_K",
+    "inference.custom.format": "codellama",
+    "inference.maxTokens": 2560,
+    "inference.maxLines": 160,
+    "workbench.activityBar.location": "hidden",
+    "explorer.confirmDelete": false,
+    "editor.formatOnPaste": true,
+    "editor.formatOnType": true,
+    "explorer.confirmDragAndDrop": false,
+    "liveServer.settings.donotShowInfoMsg": true,
+    "liveSassCompile.settings.formats": [
+      {
+        "format": "compressed",
+        "extensionName": ".css",
+        "savePath": "/css"
+      }
+    ],
+    "files.autoSave": "afterDelay",
+    "redhat.telemetry.enabled": true,
+    "debug.showInlineBreakpointCandidates": false,
+    "debug.allowBreakpointsEverywhere": true,
+    "breadcrumbs.enabled": false
+  }
+  
